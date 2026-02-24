@@ -36,7 +36,7 @@ The contract has been successfully verified on both Etherscan and Sourcify.
 ## Contract Details
 
 - **Contract Name**: `MessageChain`
-- **Deployed Address**: [0x4588Df975dF7df49612BF6F1588f705E93063af1](https://sepolia.etherscan.io/address/0xAD17ee34a3A2b59727C08E992a84a1F160BF21C0#code)
+- **Deployed Address**: [0xAD17ee34a3A2b59727C08E992a84a1F160BF21C0](https://sepolia.etherscan.io/address/0xAD17ee34a3A2b59727C08E992a84a1F160BF21C0#code)
 - **Network**: Sepolia Testnet (Chain ID: 11155111)
 - **Solidity Version**: `^0.8.0`
 
