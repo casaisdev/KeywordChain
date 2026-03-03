@@ -13,7 +13,7 @@
     "smart-contract",
     "blockchain"
   ],
-  "author": "martin",
+  "author": "CasaisLabs",
   "license": "MIT",
   "type": "commonjs",
   "devDependencies": {
